@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://tsakumin:hillerkill010@tsakumin.l2bfabs.mongodb.net/?retryWrites=true&w=majority&appName=tsakumin",
     "excessCommands": {
         "utility": true,
         "other": true,
